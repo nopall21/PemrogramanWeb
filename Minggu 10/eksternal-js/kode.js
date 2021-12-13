@@ -1,1 +1,0 @@
-alert ("Hello, ini adaah program JS eksternal");
